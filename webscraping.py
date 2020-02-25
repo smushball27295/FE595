@@ -31,4 +31,7 @@ def webscraper():
     z.read()
     z.close()     
 
-webscraper()  
+if__name__=='main':
+    webscraper()
+    
+  
